@@ -14,4 +14,4 @@ import requests
 ```
 
 # Examples
-https://coinmarketcap.com/coins/ all info has been collected from this site, write the name of particular currency, then it shows 
+https://coinmarketcap.com/coins/ all info has been collected from this site, write the name of particular currency, then it shows up, you are welcome
